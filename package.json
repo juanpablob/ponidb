@@ -1,0 +1,35 @@
+{
+  "name": "ponidb",
+  "version": "1.0.0",
+  "description": "Music production reference database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablob/ponidb.git"
+  },
+  "author": "juanpablob <m.juanpablob@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpablob/ponidb/issues"
+  },
+  "homepage": "https://github.com/juanpablob/ponidb#readme",
+  "dependencies": {
+    "moonjs": "^0.11.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-remove-logging": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "1.6.0",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-util": "^3.0.6",
+    "gulp-watch": "^4.3.3"
+  }
+}

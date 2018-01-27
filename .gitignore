@@ -1,0 +1,6 @@
+node_modules/
+bower_components/
+logs
+.DS_STORE
+!db/*.sql
+src
